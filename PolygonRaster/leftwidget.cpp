@@ -18,6 +18,7 @@ float calcDist(QPointF a, QPointF b)
 {
     return qSqrt( (a.x() - b.x()) * (a.x() - b.x()) + (a.y() - b.y()) * (a.y() - b.y()));
 }
+
 void LeftWidget::paintEvent(QPaintEvent *event)
 {
     QPainter pa(this);
