@@ -1,6 +1,9 @@
 # qGPSMower
 gps lawn mower + simulator
-GPL licence
+
+dual licence GPL
+free upto first million then 5% royalty on GPS mow product sales
+
 
 ![qGPSMower 0.01](screenshot.png)
 
